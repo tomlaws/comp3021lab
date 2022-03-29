@@ -3,3 +3,8 @@ code_interview/
 # Lab 4 generated files
 *.txt
 *.ser
+
+*.iml
+.idea/
+# Outputs
+out/
