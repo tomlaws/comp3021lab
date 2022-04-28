@@ -28,7 +28,7 @@ public class NoteBook implements Serializable {
       this.folders = n.folders;
       in.close();
     } catch (Exception e) {
-
+      System.out.println(e);
     }
   }
 
